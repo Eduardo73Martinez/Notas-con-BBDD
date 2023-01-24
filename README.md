@@ -8,4 +8,4 @@
 
 ### Descripción
 - Una Iterface que guarda formularios dentro de una base de datos local; id, nombre, correo, contraseña, apellido, dirección
-y otras notas. Podemos crear una BBDD o modificar la existente. Solo podemos usar tener una en uso. Tambien leer los registros guardados.
+y otras notas. Podemos crear una BBDD o modificar la existente. Solo podemos usar tener una en uso. Tambien podemos leer los registros guardados.
